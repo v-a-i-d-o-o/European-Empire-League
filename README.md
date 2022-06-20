@@ -32,7 +32,7 @@ Section I - League Overview
 League Structure
 The European Empire League is a 12 team, single division, Dynasty League with an Empire pot. Teams will compete each season in a head to head, PPR scoring format in an attempt to finish with one of 6 playoff places, and will then do battle in a post season knockout playoff to be crowned Champions of the season.
 
-The first team to be crowned Champion 3 times (does not have to be consecutively) will take home the Empire pot.
+The first team to be crowned Champion 3 times (does not have to be consecutively) will take home the Empire pot and the league will dissolve.
 
 Section II - League Governence
 League Commissioners
