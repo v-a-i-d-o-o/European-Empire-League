@@ -39,8 +39,6 @@ League Commissioners
 
 Vaidooo
 
-liam.alvey11@gmail.com
-
 
 
 Commissioner Site Powers and Duty
@@ -100,7 +98,7 @@ Consolation Bracket Winner: $15
 Empire pot: $100 added per season
 
 Highest scoring team each week of regular season: $5 (total: $70) This will be paid at the end of the playoffs with other league prizes.
-The owner of the fantasy player that scores the highest points in a single during the regular season will also receive $5.
+The owner (at the end of the regular season) of the fantasy player that scores the highest points in a single game during the regular season will also receive $5.
 
 Payouts will be handled by the Teamstake website. All members will need to vote to confirm payouts at the end of the season. Also please note all credit/debit card withdrawals will be subject to Teamstake’s 4% transaction fee.
 
@@ -208,19 +206,29 @@ Notable differences are the following:
 
 Passing
 6 point passing TD's
+
 -2 point interceptions
+
 -1 point QB sacked
+
 0.25 first down passing bonus
+
 1 point for pass completed
+
 -0.5 points for incomplete passes
+
 -0.5 points for pass attempts
+
 This has the effect that completion % effects points scored. 50% completion % is 0 points, less than 50% completion % is negative points and higher than 50% completion % is positive points. Obviously, the more pass attempts, the more points up for grabs.
 
 Rushing
+
 0.25 first down rushing bonus
 
 Receiving
+
 0.25 first down receiving bonus
+
 0.5 receiving bomus for TE's
 
 
