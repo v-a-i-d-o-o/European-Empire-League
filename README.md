@@ -213,9 +213,9 @@ Passing
 
 0.25 first down passing bonus
 
-0.5 point for pass completed
+0.1 point for pass completed
 
--0.5 points for incomplete passes
+-0.1 points for incomplete passes
 
 This has the effect that completion % effects points scored. 50% completion % is 0 points, less than 50% completion % is negative points and higher than 50% completion % is positive points. Obviously, the more pass attempts, the more points up for grabs.
 
